@@ -1,6 +1,8 @@
 import React from 'react'
 import Animal from './Animal';
 import './AnimalList.css';
+import './Animal.css';
+
 
 function AnimalList () {
 
